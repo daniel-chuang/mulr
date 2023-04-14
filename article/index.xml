@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michigan Undergraduate Law Review</title>
-    <link>/article/</link>
+    <link>https://daniel-chuang.github.io/mulr/article/</link>
     <description>Recent content on Michigan Undergraduate Law Review</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Jul 2020 09:00:02 +1000</lastBuildDate><atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2020 09:00:02 +1000</lastBuildDate><atom:link href="https://daniel-chuang.github.io/mulr/article/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -23,7 +23,7 @@ a {
 }
 a:hover,
 a:focus {
- color:#10beca
+ color:#FFCB05
 }
 .page-content p,
 .page-content li {
@@ -62,8 +62,8 @@ h6 {
  font-size:16px
 }
 .alert-primary {
- background-color:#10beca;
- border-color:#10beca;
+ background-color:#FFCB05;
+ border-color:#FFCB05;
  color:#000
 }
 .alert-primary a,
@@ -104,16 +104,16 @@ h6 {
 .btn:focus,
 .btn:active {
  box-shadow:none;
- color:#10beca;
- border-color:#10beca;
+ color:#FFCB05;
+ border-color:#FFCB05;
  text-decoration:none
 }
 .btn.btn {
  font-size:1rem
 }
 .btn-primary {
- background:#10beca;
- border-color:#10beca;
+ background:#FFCB05;
+ border-color:#FFCB05;
  color:#000
 }
 .btn-primary:hover,
@@ -148,7 +148,7 @@ h6 {
 .btn-link {
  border-color:transparent;
  font-weight:400;
- color:#10beca
+ color:#FFCB05
 }
 .btn-link:hover,
 .btn-link:focus,
@@ -159,7 +159,7 @@ h6 {
 .btn-text {
  border-color:transparent;
  font-weight:400;
- color:#10beca;
+ color:#FFCB05;
  color:#333
 }
 .btn-text:hover,
@@ -171,7 +171,7 @@ h6 {
 .btn-text:hover,
 .btn-text:focus,
 .btn-text:active {
- color:#10beca
+ color:#FFCB05
 }
 .card {
  border:none;
@@ -190,7 +190,7 @@ h6 {
 }
 .dropdown-menu {
  padding:0.5em;
- background:#10beca;
+ background:#FFCB05;
  border:none;
  border-radius:0;
  color:#000
@@ -204,7 +204,7 @@ h6 {
 }
 .dropdown-item:hover,
 .dropdown-item:focus {
- background:#10beca;
+ background:#FFCB05;
  border-color:#000;
  color:#000;
  outline:0
@@ -302,7 +302,7 @@ legend {
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .dropdown-item:focus {
  outline:0;
- background:#10beca;
+ background:#FFCB05;
  color:#fff
 }
 .navbar-light .navbar-nav .dropdown-menu {
@@ -399,7 +399,7 @@ legend {
   width:100%;
   margin:0;
   padding:1rem;
-  background-color:#10beca;
+  background-color:#FFCB05;
   border-radius:0
  }
  #primaryNav .dropdown-item {
@@ -411,7 +411,7 @@ legend {
  #primaryNav .dropdown-item:focus,
  #primaryNav .dropdown-item:hover {
   color:#000;
-  background-color:#10beca
+  background-color:#FFCB05
  }
  #userNav {
   position:absolute;
@@ -461,11 +461,11 @@ legend {
  }
 }
 .page-link {
- color:#10beca
+ color:#FFCB05
 }
 .page-link:hover,
 .page-link:focus {
- background:#10beca;
+ background:#FFCB05;
  color:#fff
 }
 .page-item.active .page-link {
@@ -532,7 +532,7 @@ legend {
 }
 .modal-content {
  border-radius:0;
- background:#10beca;
+ background:#FFCB05;
  color:#000
 }
 .modal-content .close {
@@ -627,8 +627,8 @@ legend {
 #connect-orcid-button:focus,
 #connect-orcid-button:active {
  box-shadow:none;
- color:#10beca;
- border-color:#10beca;
+ color:#FFCB05;
+ border-color:#FFCB05;
  text-decoration:none
 }
 .form-register fieldset.reviewer legend {
@@ -825,7 +825,7 @@ a.tagit-close {
 .article-details-bio-toggle {
  padding:0;
  font-size:0.9rem;
- color:#10beca;
+ color:#FFCB05;
  border:none;
  background:transparent;
  cursor:pointer
@@ -886,20 +886,20 @@ a.tagit-close {
  }
  .authors-string .author-string-href:hover {
   text-decoration:none;
-  color:#10beca
+  color:#FFCB05
  }
  .orcidImage {
   margin-left:3px;
   margin-right:1px
  }
  .author-string-href.active {
-  color:#10beca
+  color:#FFCB05
  }
  .author-symbol {
   font-family:sans-serif;
   font-weight:bold;
   margin-left:2px;
-  color:#10beca
+  color:#FFCB05
  }
  .author-symbol.hide {
   display:none
@@ -1439,8 +1439,8 @@ a.tagit-close {
 .page-search .pagination strong:active,
 .page-search .pagination a:active {
  box-shadow:none;
- color:#10beca;
- border-color:#10beca;
+ color:#FFCB05;
+ border-color:#FFCB05;
  text-decoration:none
 }
 .page-search .pagination strong:first-child,
@@ -1539,7 +1539,7 @@ a.tagit-close {
  width:30px;
  line-height:30px;
  text-align:center;
- background-color:#10beca
+ background-color:#FFCB05
 }
 .header_view .return:before {
  content:"\2190";
@@ -1648,7 +1648,7 @@ a.tagit-close {
  margin:2rem 0;
  font-family:'Fira Sans',sans-serif;
  font-size:18px;
- color:#10beca
+ color:#FFCB05
 }
 .category-subcategories-list {
  padding-left:0;
@@ -1700,8 +1700,8 @@ a.tagit-close {
 .block_make_submission .block_make_submission_link:focus,
 .block_make_submission .block_make_submission_link:active {
  box-shadow:none;
- color:#10beca;
- border-color:#10beca;
+ color:#FFCB05;
+ border-color:#FFCB05;
  text-decoration:none
 }
 .block_make_submission .block_make_submission_link:hover,

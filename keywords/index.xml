@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keywords on Michigan Undergraduate Law Review</title>
-    <link>/keywords/</link>
+    <link>https://daniel-chuang.github.io/mulr/keywords/</link>
     <description>Recent content in Keywords on Michigan Undergraduate Law Review</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Jul 2020 09:00:02 +1000</lastBuildDate><atom:link href="/keywords/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2020 09:00:02 +1000</lastBuildDate><atom:link href="https://daniel-chuang.github.io/mulr/keywords/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keyword</title>
-      <link>/keywords/keyword/</link>
+      <link>https://daniel-chuang.github.io/mulr/keywords/keyword/</link>
       <pubDate>Sat, 18 Jul 2020 09:00:02 +1000</pubDate>
       
-      <guid>/keywords/keyword/</guid>
+      <guid>https://daniel-chuang.github.io/mulr/keywords/keyword/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyword2</title>
-      <link>/keywords/keyword2/</link>
+      <link>https://daniel-chuang.github.io/mulr/keywords/keyword2/</link>
       <pubDate>Sat, 18 Jul 2020 09:00:02 +1000</pubDate>
       
-      <guid>/keywords/keyword2/</guid>
+      <guid>https://daniel-chuang.github.io/mulr/keywords/keyword2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyword3</title>
-      <link>/keywords/keyword3/</link>
+      <link>https://daniel-chuang.github.io/mulr/keywords/keyword3/</link>
       <pubDate>Sat, 18 Jul 2020 09:00:02 +1000</pubDate>
       
-      <guid>/keywords/keyword3/</guid>
+      <guid>https://daniel-chuang.github.io/mulr/keywords/keyword3/</guid>
       <description></description>
     </item>
     
