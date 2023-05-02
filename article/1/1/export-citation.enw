@@ -1,13 +1,12 @@
 %0 Journal Article
-%A One, Author
-%D 2020
-%T Article Example Page
+%A MULR Staff, 
+%D 2023
+%T Michigan Undergraduate Law Review, Volume I, Issue I
 %J Michigan Undergraduate Law Review
 %V 1
 %N 1
-%R 10.xxxx/abcd
 %U https://michiganulr.com/article/1/1/
 %P 1-2
 %@ XXXX-XXXX
 %U https://michiganulr.com/article/1/1/
-%X The Health Sciences Journal Theme is intended to replicate the front end of Open Journal Systems and display content for readers. Journal information pages are contained in the *about* and *contact* directories.The *current* directory will build a contents page for the journal's current issue, which can be set in config.toml. Journal issues should be in separate directories within *article*. For each article, create a .md file for the article containing the metadata for the article and links to the relevant galley files. JATS XML files will be rendered using a modified version of eLife Lens Viewer.
+%X We are thrilled to present the inaugural issue of the Michigan Undergraduate Law Review, culminating a semester’s worth of unmatched effort by a dedicated and talented leadership and staff team. It contains seven articles on diverse topics of law produced entirely by our staff writers, in service of our mission to advance undergraduate legal scholarship at the University of Michigan. We welcome your feedback at mulr-exec@umich.edu, and we hope you enjoy reading it.
